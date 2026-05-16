@@ -23,7 +23,7 @@ It uses **Retrieval-Augmented Generation (RAG)** to ground every answer in the d
 
 > Upload a PDF → Ask a question → Get a cited answer
 
-!(Screenshot 2026-05-16 at 3.48.16 PM.png)
+![Demo](demo.png)
 
 ---
 
